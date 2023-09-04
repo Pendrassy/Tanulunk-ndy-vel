@@ -1,2 +1,3 @@
-# Tanulunk-ndy-vel
- nem kapok penzt :(
+# Utmotato a filehoz
+- elso lepes:
+- - bazd meg
